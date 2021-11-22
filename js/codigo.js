@@ -1,5 +1,7 @@
 var contador = 0;
 
+//comentario git
+
 //Va incrementando el contador en cada click del botón
 function incrementarContador() {
    contador++;
